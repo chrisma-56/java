@@ -12,5 +12,10 @@ Exercise - 1 - creditCardValidator,
 Exercise - 2 - WordWar
 - This program take a string as a input, which converted to lowercase and stored
 - The string is divided into two half using the mid value.
-- The values associated with the string is sumed, the half with the greater value is returned as the winner , the sum of the individual halves is equal then “a draw”
+- The values associated with the string is sumed, the half with the greater value is returned as the winner , the sum of the individual halves is equal then “a draw”.
+
+#Program 5 - (files - Program5_1, Program5_2)
+Excercise 1 - Program5_1
+
+-
 
