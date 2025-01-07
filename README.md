@@ -16,6 +16,8 @@ Exercise - 2 - WordWar
 
 #Program 5 - (files - Program5_1, Program5_2)
 Excercise 1 - Program5_1
+interface call Bankinterface is created with 2 functions cleared, get balalance and a and get interest rate, three classes namely bank_a, bank_b, bank_c and initialized with a deposite value, and different interest rates. The get interest method for each balance method returns the interest rate.and the get balance computes the interest by multiplying the interest with depostie and return the sum of it.
+
 
 -
 
